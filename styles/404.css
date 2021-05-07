@@ -1,0 +1,20 @@
+.Box-shift{
+    display:center;
+    background-color:aqua;
+    margin:1rem;
+    padding: 1.5rem;
+    text-align: center;
+    width:50%;
+    height:50%;
+    border-radius: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    vertical-align: middle;
+     
+}
+@media (max-width:600px){
+    .Box-shift {
+        width: 80%;
+        height:80%;
+    }
+}
